@@ -1,0 +1,1 @@
+![GitHub Actions](https://github.com/igorKolomitseff/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)
